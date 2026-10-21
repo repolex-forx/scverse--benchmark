@@ -1,0 +1,11 @@
+{
+  "org": "scverse",
+  "repo": "benchmark",
+  "versions": [
+    {
+      "commit": "8a802b24891cd85c95508e127e25b36f61ed7770",
+      "tag": "",
+      "parsed_at": "2026-10-21T20:31:34.009030+00:00"
+    }
+  ]
+}
